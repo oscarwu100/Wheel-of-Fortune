@@ -223,6 +223,3 @@ while number!= 4:
     
     
     
-    
-    
-    
